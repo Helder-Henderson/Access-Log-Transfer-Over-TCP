@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TCPClient</id>
+    <version>1.0.0</version>
+    <authors>TCPClient</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\dev\acess-transfer-log-with-tcp-protocol\TCPClient\bin\Debug\net6.0\TCPClient.runtimeconfig.json" target="lib\net6.0\TCPClient.runtimeconfig.json" />
+    <file src="C:\dev\acess-transfer-log-with-tcp-protocol\TCPClient\bin\Debug\net6.0\TCPClient.dll" target="lib\net6.0\TCPClient.dll" />
+  </files>
+</package>
